@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CellDelegate.qml</file>
+        <file>Controlls.qml</file>
+    </qresource>
+</RCC>
